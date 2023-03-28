@@ -2,7 +2,7 @@
 """
 Created on Wed Jun 10 15:50:49 2020
 
-@author: kwik
+@author: lrcia
 """
 
 import numpy as np
